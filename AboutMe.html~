@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>About Samantha DiGiuseppe</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+<div id="MenuRow">
+	<div id"About" div class="MenuItems">
+	<a href="AboutMe.html">About</a>
+	</div>
+	<div id="Consulting" class="MenuItems">
+	<a href="Consulting.html">Consulting</a>
+	</div>
+	<div id="Design" class="MenuItems">
+	<a href="Design.html">Design</a>
+	</div>
+	<div id="Writing" class="MenuItems">
+	<a href="Writing.html">Writing</a>
+	</div>
+	<div id="Contact" class="MenuItems">
+	<a href="Contact.html">Contact</a>
+	</div>
+</div>
+
+<div id="Me">
+<img src="bsocialpic.png" alt="Me">
+</div>
+
+<div id="WhoAmI">
+
+<p>
+<h1>Who Am I?</h1>
+</p>
+<p>
+I am a Communications and Digital Media student interested in how nonprofit organizations can use Web 2.0 literacies to promote social good.
+</p>
+</p>
+I am a project manager who collaborates with other student-consultants in working with such organizations.
+</p>
+<p>
+I am a consultant who has worked with nonprofit and community-based organizations in expanding and improving their social media strategies and web presence.
+</p>
+<p>I am a writer who has had professional experience drafting promotional materials, web content, and emails.
+</p>
+<p>
+I am a designer who has experience branding and designing for the web and print materials.
+</p>
+</div>
+
+
+</body>

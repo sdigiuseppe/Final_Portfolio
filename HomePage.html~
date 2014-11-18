@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Samantha DiGiuseppe</title>
+<meta charset="utf-8" />
+
+
+<style>
+
+body {
+margin: 3em;
+}
+
+
+.MenuItems {
+float: left;
+font-size: 1em;
+margin: .2em;
+padding: .5em;
+}	
+	
+	
+h1 {
+color: purple;
+font-size: 3em;
+margin-top: 3em;
+float: right;
+clear: both;
+
+}
+
+.IntroText {
+margin-right: 3em;
+clear: both;
+}
+
+</style>
+</head>
+
+<body>
+
+<div id="MenuRow">
+	<div id"About" div class="MenuItems">
+	About
+	</div>
+	<div id="Consulting" class="MenuItems">
+	Consulting
+	</div>
+	<div id="Design" class="MenuItems">
+	Design
+	</div>
+	<div id="Writing" class="MenuItems">
+	Writing
+	</div>
+	<div id="Contact" class="MenuItems">
+	Contact
+	</div>
+</div>
+
+
+<h1>Samantha DiGiuseppe</h1>
+<div class="IntroText">
+<p>Lorem ipsum dolor sit amet, pri id scripta suscipit postulant. Eu quo everti voluptua vituperata. Invidunt disputando ad cum, et cum nemore audire, his scripta officiis ne. Purto solet tempor an quo, putant accusam electram nec ut, ex ius nobis theophrastus definitiones.
+</p>
+</div>
+</body>
