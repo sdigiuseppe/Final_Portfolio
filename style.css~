@@ -1,31 +1,54 @@
 
 
 body {
-margin: 3em;
 font-family: 'Raleway', sans-serif;
+padding: 0%;
+margin: 0%;
 }
+
 
 
 .MenuItems a {
 float: left;
 font-family: 'Raleway', sans-serif;
-margin: 1em;
+margin: 1.5em;
 text-decoration: none;
 color: black;
 }
 
 .MenuItems a:hover {
-color: #B163A3;
+color: #FC5447;
 }	
 	
+
+#Everything {
+float: left;
+width: 100%;
+background-color: white;
+
+}
 	
 h1 {
-color: #B163A3;
-font-size: 3em;
-margin-top: 3em;
-float: right;
-clear: both;
-font-family: 'Raleway', sans-serif;
+margin-left: 28%;
+margin-bottom: 0%;
+color: #FC5447;
+font-size: 4em;
+font-family: 'Shadows Into Light', cursive;
+}
+
+h3 {
+margin-left: 34.5%;
+color: #FC5447;
+font-size: 1.3em;
+font-family: 'Shadows Into Light', cursive;
+}
+
+#MenuRow {
+float: left;
+width: 100%;
+border-top: dotted;
+border-bottom: dotted;
+padding-left: 27%;
 
 }
 
@@ -35,10 +58,37 @@ clear: both;
 font-family: 'Raleway', sans-serif;
 }
 
-#WhoAmI
+#WhoAmI {
+float:left;
+padding: 1.5em;
+}
 
-#Me {
-margin: 3em;
-padding: 6em;
+
+h2 {
+float:left;
+margin-left: 10%;
+color: #FC5447;
+font-family: 'Shadows Into Light', cursive;
+font-size: 2em;
+}
+
+#ConsultingInfo {
+float:left;
+padding: 1.5em;
+}
+
+#DesignInfo {
+float:left;
+padding: 1.5em;
+}
+
+#WritingInfo {
+float:left;
+padding: 1.5em;
+}
+
+#ContactInfo {
+float:left;
+padding: 1.5em;
 }
 

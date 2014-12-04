@@ -9,7 +9,14 @@
 
 <body>
 
+<div id="Everything">
+<h1>Samantha DiGiuseppe</h1>
+
+
 <div id="MenuRow">
+	<div id"Home" div class="MenuItems">
+	<a href="index.html">Home</a>
+	</div>
 	<div id"About" div class="MenuItems">
 	<a href="AboutMe.html">About</a>
 	</div>
@@ -27,11 +34,6 @@
 	</div>
 </div>
 
-
-
-<h1>Samantha DiGiuseppe</h1>
-<div class="IntroText">
-<p>Lorem ipsum dolor sit amet, pri id scripta suscipit postulant. Eu quo everti voluptua vituperata. Invidunt disputando ad cum, et cum nemore audire, his scripta officiis ne. Purto solet tempor an quo, putant accusam electram nec ut, ex ius nobis theophrastus definitiones.
-</p>
 </div>
+
 </body>

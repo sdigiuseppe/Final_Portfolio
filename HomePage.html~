@@ -3,64 +3,37 @@
 <head>
 <title>Samantha DiGiuseppe</title>
 <meta charset="utf-8" />
-
-
-<style>
-
-body {
-margin: 3em;
-}
-
-
-.MenuItems {
-float: left;
-font-size: 1em;
-margin: .2em;
-padding: .5em;
-}	
-	
-	
-h1 {
-color: purple;
-font-size: 3em;
-margin-top: 3em;
-float: right;
-clear: both;
-
-}
-
-.IntroText {
-margin-right: 3em;
-clear: both;
-}
-
-</style>
+<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
+<div id="Everything">
+<h1>Samantha DiGiuseppe</h1>
+
+
 <div id="MenuRow">
+	<div id"Home" div class="MenuItems">
+	<a href="HomePage.html">Home</a>
+	</div>
 	<div id"About" div class="MenuItems">
-	About
+	<a href="AboutMe.html">About</a>
 	</div>
 	<div id="Consulting" class="MenuItems">
-	Consulting
+	<a href="Consulting.html">Consulting</a>
 	</div>
 	<div id="Design" class="MenuItems">
-	Design
+	<a href="Design.html">Design</a>
 	</div>
 	<div id="Writing" class="MenuItems">
-	Writing
+	<a href="Writing.html">Writing</a>
 	</div>
 	<div id="Contact" class="MenuItems">
-	Contact
+	<a href="Contact.html">Contact</a>
 	</div>
 </div>
 
-
-<h1>Samantha DiGiuseppe</h1>
-<div class="IntroText">
-<p>Lorem ipsum dolor sit amet, pri id scripta suscipit postulant. Eu quo everti voluptua vituperata. Invidunt disputando ad cum, et cum nemore audire, his scripta officiis ne. Purto solet tempor an quo, putant accusam electram nec ut, ex ius nobis theophrastus definitiones.
-</p>
 </div>
+
 </body>

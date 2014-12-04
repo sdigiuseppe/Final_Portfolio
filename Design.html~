@@ -1,24 +1,25 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Contact</title>
+<title>About Samantha DiGiuseppe</title>
 <meta charset="utf-8" />
 <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-
 <div id="Everything">
+
 <h1>Samantha DiGiuseppe</h1>
-<h3> digital activist, social media addict, word nerd </h3>
 
 
 
 	<div id="MenuRow">
+		<div id="Home" class="MenuItems">
+		<a href="index.html">Home</a>
+		</div>
 		<div id="About" class="MenuItems">
-		<a href="index.html">About</a>
+		<a href="AboutMe.html">About</a>
 		</div>
 		<div id="Consulting" class="MenuItems">
 		<a href="Consulting.html">Consulting</a>
@@ -34,12 +35,9 @@
 		</div>
 	</div>
 </div>	
-<div id="ContactInfo">
+
+<div id="DesignInfo">
 <p>
-Drop me a line at sd583867@sju.edu.
-</p>
-Or, connect with me on linkedin here.
-</div
+As a Programs Intern at  The Clery Center, I designed images for the 2014 National Campus Safety Awareness Month social media campaign. I also designed flyers for the Alarming Truth Campaign
 
 </body>
-</html>
