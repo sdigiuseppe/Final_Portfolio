@@ -29,7 +29,7 @@ background-color: white;
 }
 	
 h1 {
-margin-left: 30%;
+text-align: center;
 margin-bottom: 0%;
 color: #FC5447;
 font-size: 3.5em;
@@ -37,7 +37,7 @@ font-family: 'Shadows Into Light', cursive;
 }
 
 h3 {
-margin-left: 35%;
+text-align:center;
 color: #FC5447;
 font-size: 1.2em;
 font-family: 'Shadows Into Light', cursive;
