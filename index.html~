@@ -1,39 +1,67 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Samantha DiGiuseppe</title>
+<title>About Samantha DiGiuseppe</title>
 <meta charset="utf-8" />
 <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<div id="Everything">
+
+
 <h1>Samantha DiGiuseppe</h1>
+<h3> digital activist, social media addict, word nerd </h3>
 
 
-<div id="MenuRow">
-	<div id"Home" div class="MenuItems">
-	<a href="index.html">Home</a>
+	<div id="MenuRow">
+		<div id="About" class="MenuItems">
+		<a href="index.html">About</a>
+		</div>
+		<div id="Consulting" class="MenuItems">
+		<a href="Consulting.html">Consulting</a>
+		</div>
+		<div id="Design" class="MenuItems">
+		<a href="Design.html">Design</a>
+		</div>
+		<div id="Writing" class="MenuItems">
+		<a href="Writing.html">Writing</a>
+		</div>
+		<div id="Contact" class="MenuItems">
+		<a href="Contact.html">Contact</a>
+		</div>
 	</div>
-	<div id"About" div class="MenuItems">
-	<a href="AboutMe.html">About</a>
-	</div>
-	<div id="Consulting" class="MenuItems">
-	<a href="Consulting.html">Consulting</a>
-	</div>
-	<div id="Design" class="MenuItems">
-	<a href="Design.html">Design</a>
-	</div>
-	<div id="Writing" class="MenuItems">
-	<a href="Writing.html">Writing</a>
-	</div>
-	<div id="Contact" class="MenuItems">
-	<a href="Contact.html">Contact</a>
-	</div>
+
+
+	<h2>Who Am I?</h2>
+<div id="image">
+<img src="me.png" alt="Samantha DiGiuseppe">
 </div>
 
-</div>
+	<div id="WhoAmI">
+
+<p>I am a <span class="ColoredText"> Communications and Digital Media student </span> interested in how nonprofit organizations</p><p> can use Web 2.0 literacies to promote social good.</p>
+<p>
+I am a <span class="ColoredText"> project manager </span> who collaborates with other student-consultants in working with such organizations.
+</p>
+<p>
+I am a <span class="ColoredText">consultant</span> who has worked with nonprofit and community-based organizations in expanding and</p><p> improving their social media strategies and web presence.
+</p>
+<p>I am a<span class="ColoredText"> writer</span> who has had professional experience drafting promotional materials, web content, and emails.
+</p>
+<p>
+I am a <span class="ColoredText">designer</span> who has experience branding and designing for the web and print materials.
+</p>
+<p>
+You can check out my resume <a href="Resume.jpg" target="_blank">here</a>.
+</p>
+<p>
+Or, for a more in depth description, feel free to check out my <a href="PersonalNarrative.jpg" target="_blank">personal narrative</a>.
+</p>
+	</div>
+
 
 </body>
+</html>

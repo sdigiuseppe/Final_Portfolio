@@ -29,7 +29,7 @@ background-color: white;
 }
 	
 h1 {
-margin-left: 28%;
+margin-left: 30%;
 margin-bottom: 0%;
 color: #FC5447;
 font-size: 4em;
@@ -37,7 +37,7 @@ font-family: 'Shadows Into Light', cursive;
 }
 
 h3 {
-margin-left: 34.5%;
+margin-left: 37%;
 color: #FC5447;
 font-size: 1.3em;
 font-family: 'Shadows Into Light', cursive;
@@ -48,7 +48,7 @@ float: left;
 width: 100%;
 border-top: dotted;
 border-bottom: dotted;
-padding-left: 27%;
+padding-left: 30%;
 
 }
 
@@ -58,37 +58,81 @@ clear: both;
 font-family: 'Raleway', sans-serif;
 }
 
-#WhoAmI {
-float:left;
-padding: 1.5em;
-}
 
 
 h2 {
 float:left;
-margin-left: 10%;
+margin-left: 7%;
+width: 100%;
 color: #FC5447;
 font-family: 'Shadows Into Light', cursive;
 font-size: 2em;
 }
 
+#WhoAmI {
+float:left;
+padding-left: 2em;
+padding-right: 3em;
+}
+
+#WhoAmI a {
+color:#A44200;
+}
+
+
 #ConsultingInfo {
 float:left;
-padding: 1.5em;
+padding-left: 2em;
+padding-right: 3em;
+}
+
+#ConsultingInfo a {
+color:#A44200;
+
 }
 
 #DesignInfo {
 float:left;
-padding: 1.5em;
+padding-left: 2em;
+padding-right: 3em;
+}
+
+#DesignInfo a {
+color:#A44200
 }
 
 #WritingInfo {
 float:left;
-padding: 1.5em;
+padding-left: 2em;
+padding-right: 3em;
+}
+
+#WritingInfo a {
+color:#A44200;
+
 }
 
 #ContactInfo {
 float:left;
-padding: 1.5em;
+padding-left: 2em;
+padding-right: 3em;
 }
 
+#ContactInfo a {
+color:#A44200;
+}
+
+.ColoredText {
+color: #FC5447;
+font-weight: bold;
+}
+
+#image {
+padding-left: 6em;
+padding-right: 0em;
+float: left;
+}
+
+#Designs {
+padding-left: 10%;
+}

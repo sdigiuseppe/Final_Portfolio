@@ -1,9 +1,10 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>About Samantha DiGiuseppe</title>
+<title>Contact</title>
 <meta charset="utf-8" />
 <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 </head>
 
@@ -11,15 +12,13 @@
 
 <div id="Everything">
 <h1>Samantha DiGiuseppe</h1>
+<h3> digital activist, social media addict, word nerd </h3>
 
 
 
 	<div id="MenuRow">
-		<div id="Home" class="MenuItems">
-		<a href="index.html">Home</a>
-		</div>
 		<div id="About" class="MenuItems">
-		<a href="AboutMe.html">About</a>
+		<a href="index.html">About</a>
 		</div>
 		<div id="Consulting" class="MenuItems">
 		<a href="Consulting.html">Consulting</a>
@@ -35,4 +34,15 @@
 		</div>
 	</div>
 </div>	
+
+<h2> Contact</h2>
+
+<div id="ContactInfo">
+<p>
+Drop me a line at sd583867@sju.edu.
+</p>
+Or, connect with me on <a href="https://www.linkedin.com/in/samanthadigiuseppe" target="_blank">linkedin</a>.
+</div
+
 </body>
+</html>
